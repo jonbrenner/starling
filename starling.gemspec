@@ -17,5 +17,5 @@ Gem::Specification.new do |s|
   s.extra_rdoc_files = ["README.rdoc", "CHANGELOG", "LICENSE"]
 
   s.add_dependency 'fiveruns-memcache-client'
-  s.add_dependency 'eventmachine', [">= 0.12.0"]
+  s.add_dependency 'eventmachine-eventmachine', [">= 0.12.0"]
 end
